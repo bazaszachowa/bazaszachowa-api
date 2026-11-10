@@ -17,7 +17,7 @@
     "@fastify/helmet": "^13.2.0",
     "@fastify/multipart": "^10.1.6",
     "@fastify/rate-limit": "^11.2.1",
-    "@fastify/static": "^10.1.8",
+    "@fastify/static": "^10.1.10",
     "axios": "^1.21.0",
     "canvas": "^3.2.3",
     "domino": "^2.1.8",
